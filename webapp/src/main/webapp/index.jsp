@@ -1,2 +1,2 @@
-<h1> Hello ,OS  Kantha!!! </h1>
+<h1> Hello ,OS Kantha!!! </h1>
 
